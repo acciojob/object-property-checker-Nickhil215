@@ -13,4 +13,4 @@ function hasKey(Key) {
 }
 
 // Do not change the code below
-const key = prompt("Enter Key.");
+const Key = prompt("Enter Key.");
